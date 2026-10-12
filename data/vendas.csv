@@ -1,0 +1,21 @@
+id,produto,categoria,quantidade,preco
+1,Notebook,Eletrônicos,2,3500
+2,Mouse,Periféricos,10,80
+3,Teclado,Periféricos,5,120
+4,Monitor,Eletrônicos,3,900
+5,Cadeira,Escritório,4,700
+6,Impressora,Eletrônicos,1,1200
+7,Luminária,Escritório,7,150
+8,Smartphone,Eletrônicos,6,2500
+9,Headset,Periféricos,8,200
+10,Mesa,Escritório,2,1100
+11,Tablet,Eletrônicos,3,1800
+12,HD Externo,Periféricos,4,350
+13,Projetor,Eletrônicos,1,2200
+14,Caneta,Escritório,20,5
+15,Caixa de Som,Eletrônicos,5,400
+16,Webcam,Periféricos,6,250
+17,Armário,Escritório,1,1600
+18,Placa de Vídeo,Eletrônicos,2,2800
+19,Suporte Monitor,Periféricos,3,90
+20,Relógio Inteligente,Eletrônicos,4,1200
